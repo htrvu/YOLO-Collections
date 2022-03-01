@@ -1,6 +1,6 @@
 # YOLO Collections
 
-In this project, I have implemented YOLO algorithms from scratch with framework Tensorflow 2.0. Notice that the architecture of the models might be slightly different from the original version and I referenced from many sources.
+In this project, I have implemented YOLO algorithms from scratch with framework Tensorflow 2.0. Notice that the architecture of the models might be slightly different from the original version and I refered from many sources in the Internet.
 
 Original papers of YOLOs:
 - YOLOv1: https://arxiv.org/pdf/1506.02640.pdf
